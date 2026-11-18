@@ -1,3 +1,5 @@
+![TohaAI Lab Banner](./banner.png)
+
 # ⚡ TohaAI Lab
 
 ### Python Development · AI Agents · Intelligent Automation
