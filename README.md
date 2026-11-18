@@ -42,11 +42,14 @@ Welcome to TohaAI Lab — an independent software development and automation lab
 |---|---|---|
 | Telegram Video Downloader | Automated video downloading and processing | Operational |
 | AI Browser Automation Agent | LLM-driven browser interaction and task execution | Prototype |
-| Linux Server Management | Application deployment, monitoring and diagnostics | Operational |
+| [Linux Server Diagnostics](https://github.com/TohaAI-Lab/linux-server-diagnostics) | Read-only Linux diagnostics toolkit | v0.1.0 Pre-release |
 | Task Scheduling System | Automated queues, scheduling and process management | In development |
 | Web Scraping Tools | Automated data collection and processing | Practical implementations |
 
-Public demonstration repositories are being prepared.
+Our first open-source toolkit is now available. More public projects are in development.
+
+[Explore Linux Server Diagnostics v0.1.0](https://github.com/TohaAI-Lab/linux-server-diagnostics/releases/tag/v0.1.0)
+
 
 ---
 
