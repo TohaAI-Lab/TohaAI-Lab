@@ -41,14 +41,19 @@ Welcome to TohaAI Lab — an independent software development and automation lab
 | Project | Description | Status |
 |---|---|---|
 | Telegram Video Downloader | Automated video downloading and processing | Operational |
+| [Telegram Bot Starter Kit](https://github.com/TohaAI-Lab/telegram-bot-starter-kit) | Modular Python foundation for Telegram bots | v0.1.0 Pre-release |
 | AI Browser Automation Agent | LLM-driven browser interaction and task execution | Prototype |
 | [Linux Server Diagnostics](https://github.com/TohaAI-Lab/linux-server-diagnostics) | Read-only Linux diagnostics toolkit | v0.1.0 Pre-release |
 | Task Scheduling System | Automated queues, scheduling and process management | In development |
 | Web Scraping Tools | Automated data collection and processing | Practical implementations |
 
-Our first open-source toolkit is now available. More public projects are in development.
+Two open-source projects are now available. More public projects are in development.
+
 
 [Explore Linux Server Diagnostics v0.1.0](https://github.com/TohaAI-Lab/linux-server-diagnostics/releases/tag/v0.1.0)
+
+[Explore Telegram Bot Starter Kit v0.1.0](https://github.com/TohaAI-Lab/telegram-bot-starter-kit/releases/tag/v0.1.0)
+
 
 
 ---
