@@ -1,16 +1,70 @@
-## Hi there 👋
+# ⚡ TohaAI Lab
 
-<!--
-**TohaAI-Lab/TohaAI-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Development · AI Agents · Intelligent Automation
 
-Here are some ideas to get you started:
+Welcome to TohaAI Lab — an independent software development and automation lab focused on practical, real-world solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+- Telegram bots and custom automation tools
+- AI agents and LLM integration
+- Browser automation with Playwright
+- Web scraping and structured data extraction
+- REST API integration
+- Linux server management and diagnostics
+- Automated task scheduling and monitoring
+- Video and audio processing
+
+---
+
+## 🛠️ Technology Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Agents-00BFFF?style=for-the-badge)
+![API](https://img.shields.io/badge/API_Integration-6C63FF?style=for-the-badge)
+
+---
+
+## 📂 Selected Projects
+
+| Project | Description | Status |
+|---|---|---|
+| Telegram Video Downloader | Automated video downloading and processing | Operational |
+| AI Browser Automation Agent | LLM-driven browser interaction and task execution | Prototype |
+| Linux Server Management | Application deployment, monitoring and diagnostics | Operational |
+| Task Scheduling System | Automated queues, scheduling and process management | In development |
+| Web Scraping Tools | Automated data collection and processing | Practical implementations |
+
+Public demonstration repositories are being prepared.
+
+---
+
+## 🎯 Development Principles
+
+- Reliable and maintainable solutions
+- Modular software architecture
+- Safe deployment and dependency isolation
+- Clear documentation
+- Step-by-step testing and verification
+- Attention to detail
+
+---
+
+## 🤝 Open to Opportunities
+
+Available for freelance projects, technical collaboration and custom software development.
+
+**Build. Automate. Improve.**
+
+---
+
+*TohaAI Lab — Independent Development & Automation*
